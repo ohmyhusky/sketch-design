@@ -29,6 +29,12 @@
   "name": "iPhone X/Bars/Navigation/Navigation Bar - 1 Action",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "90FD2BAB-2A1C-4A79-A9F8-D4403111DB8C",
+      "overrideName": "3654A591-7DE5-4534-87C0-66FA8FA75A89/E4BAA223-5D3E-4137-BE6A-31E9F4C6A86E_stringValue",
+      "value": "Back"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
